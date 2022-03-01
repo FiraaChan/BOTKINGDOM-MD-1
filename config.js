@@ -1,4 +1,4 @@
-global.owner = ['94742134288'] // Put your number here
+global.owner = ['6283830815715'] // Put your number here
 
 global.mods = [] // Want some help?
 
@@ -80,11 +80,11 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 
-global.packname = 'BOT KINGDOM'
+global.packname = 'ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚 Ᏼo͢Ꭲ'
 
-global.author = '❤️'
+global.author = '👸'
 
-global.wm = 'ＢＯＴ ＫＩＮＧＤＯＭ'
+global.wm = 'ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚'
 
 global.media = 'https://telegra.ph/file/4475cfb321abebedc758d.jpg'
 
