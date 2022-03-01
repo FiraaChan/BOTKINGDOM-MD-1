@@ -5,12 +5,12 @@
 
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys-md')
 let handler = async (m) => {
-let duit = `*────── 「 BOT KINGDOM 」 ──────*
+let duit = `*────── 「 ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚 Ᏼo͢Ꭲ 」 ──────*
 
 
-HAI
-https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV`
-let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/1afe4bdf9c931fdb6f54d.jpg' }}, { upload: conn.waUploadToServer })
+HAI GAK JOIN GAK ASIK LU BANG / KAK 🗿
+https://chat.whatsapp.com/EAMAuySd2Da3cUCYAvfVMQ`
+let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/304c38c952c54cce32ce7.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
@@ -20,19 +20,19 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedButtons: [{
              urlButton: {
                displayText: '🏧 MY WEBSITE',
-               url: 'supuna.ml'
+               url: 'https://github.com/FiraaChan'
              }
 
            },
                {
              callButton: {
                displayText: 'call',
-               phoneNumber: '+94'
+               phoneNumber: '6283830815715'
              }
            },           
                {
              quickReplyButton: {
-               displayText: '🧒 Owner',
+               displayText: '👸 Owner',
                id: '.owner',
              }
 
