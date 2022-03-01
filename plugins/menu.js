@@ -54,35 +54,35 @@ const defaultMenu = {
 
 ╭────ꕥ %me ꕥ────
 
-│✾ Version: %version
+│✓ Version: %version
 
-│✾ Library: Baileys
+│✓ Library: Baileys
 
-│✾ Runtime: %uptime
+│✓ Runtime: %uptime
 
 ╰❑
 
 ╭─❑ 「 INFO USER 」 ❑──
 
-│ ✾ Name: %name
+│ 💠 Name: %name
 
-│ ✾ Status: Free User
+│ 🎗️ Status: Free User
 
-│ ✾ Limit: %limit
+│ ☔ Limit: %limit
 
-│ ✾ Money: %money
+│ 💳 Money: %money
 
-│ ✾ Exp: %totalexp
+│ 💷 Exp: %totalexp
 
-│ ✾ Level: %level
+│ 🧾 Level: %level
 
-│ ✾ Role: %role
+│ ⚖️ Role: %role
 
 ╰❑
 
-╭─❑ 「 BOTKINGDOM 」 ❑──
+╭─❑ 「 ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚 Ᏼo͢Ꭲ' 」 ❑──
 
-│ https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV
+│ https://chat.whatsapp.com/EAMAuySd2Da3cUCYAvfVMQ
 
 ╰❑
 
@@ -322,9 +322,9 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
              urlButton: {
 
-               displayText: '💠 GROUP',
+               displayText: '🌷 GROUP',
 
-               url: 'https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV'
+               url: 'https://chat.whatsapp.com/EAMAuySd2Da3cUCYAvfVMQ'
 
              }
 
@@ -336,7 +336,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
                displayText: 'Owner',
 
-               PhoneNumber: '94'
+               PhoneNumber: '6283830815715'
 
              }
 
@@ -346,7 +346,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
              quickReplyButton: {
 
-               displayText: '🧒 Owner',
+               displayText: '👸 Owner',
 
                id: '.owner',
 
