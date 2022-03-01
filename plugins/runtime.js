@@ -3,8 +3,8 @@ let handler = async (m, { conn }) => {
     let uptime = clockString(_uptime)
 
 m.reply(`
-┌─〔 R U N T I M E 〕
-├ ධාවන කාලය ${uptime}
+┌─〔 ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚 〕
+├ RUNTIME ${uptime}
 └────
     `.trim())
 }
