@@ -18,7 +18,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
   }
 
-  await conn.sendFile(m.chat, out, 'done.png', '*DONE*', m, false, {
+  await conn.sendFile(m.chat, out, 'done.png', '*DONE JANGAN LUPA JOIN https://chat.whatsapp.com/EAMAuySd2Da3cUCYAvfVMQ*', m, false, {
 
     thumbnail: Buffer.alloc(0)
 
